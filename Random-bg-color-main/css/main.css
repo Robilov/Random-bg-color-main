@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  font-size: 36px;
+  padding: 10px;
+  border: none;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
